@@ -1,0 +1,1 @@
+O programa não aparenta erro, e calcula o fatorial 0 até n-1.

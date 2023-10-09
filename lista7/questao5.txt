@@ -1,0 +1,1 @@
+O código apresenta um erro, porque não aloca memória para a variável ponteiro tmp antes de usá-la para armazenar temporariamente o valor apontado por i. Assim, a variável tmp é apenas um ponteiro não inicializado e não alocado.

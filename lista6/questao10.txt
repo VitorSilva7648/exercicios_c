@@ -1,0 +1,1 @@
+Para obter o resultado do programa da questao 10, é necessário alterar o especificador de formato %d por %ld no printf porque a funçao está retornando long unsigned int. Assim, obtem o seguinte resultado para o programa: 12 bytes.

@@ -1,0 +1,4 @@
+O resultado do programa da questão 3 é: 
+
+a.nome = Helen, a.nota = 8.600000
+b.nome = Dilbert, b.nota = 8.200000

@@ -1,0 +1,4 @@
+O resuldado do programa é:
+
+i1 = -2, *reg.pt1 = -2
+i2 = 100, *reg.pt2 = 100

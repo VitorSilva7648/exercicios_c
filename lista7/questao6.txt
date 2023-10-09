@@ -1,0 +1,4 @@
+O valores não são iguais após a chamada das funções func1 e func2, porque o valor de x é passado por valor para a função func1, enquanto o valor de v[0] é passado por referência (ponteiro) para a função func2, o que resulte em:
+
+x: 111
+v[0]: 999

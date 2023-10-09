@@ -1,0 +1,1 @@
+A diferença entre struct e union é como elas armazenam os dados. As structs são usadas quando para armazenar informações relacionadas e diferentes em uma única estrutura, enquanto as unions são usadas para economizar memória e sabe que apenas um membro será usado em um dado momento.

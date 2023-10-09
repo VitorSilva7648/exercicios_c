@@ -1,0 +1,7 @@
+Na linha 11 do programa foi utilizado "%ld" pois os argumentos são do tipo long int, e assim obteve como resposta:
+
+14
+34
+4
+NAO
+NAO

@@ -1,0 +1,1 @@
+A alocação estática é usada quando o tamanho e a duração de vida de um objeto são conhecidos em tempo de compilação, enquanto a alocação dinâmica é usada quando você precisa de flexibilidade para alocar e liberar memória durante a execução do programa.

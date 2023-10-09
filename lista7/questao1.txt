@@ -1,0 +1,1 @@
+Um ponteiro é uma variável que armazena o endereço de memória de outra variável. A declaração de um ponteiro é importante pois informa ao compilador o tipo de dados que o ponteiro apontará, ou seja, o tipo de dados da variável cujo endereço será armazenado. 

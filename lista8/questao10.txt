@@ -1,0 +1,1 @@
+Quando n = 4000000 da falha de seguimentação 

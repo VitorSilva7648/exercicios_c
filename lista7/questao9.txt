@@ -1,0 +1,4 @@
+O resuldado do programa é:
+
+1: 53 7.112000
+2: 7 53.000000
